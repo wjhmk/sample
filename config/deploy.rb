@@ -1,4 +1,4 @@
-lock '3.4.0'
+lock '3.11.0'
 
 set :application, 'sample'
 set :repo_url, 'https://github.com/wjhmk/sample.git'
